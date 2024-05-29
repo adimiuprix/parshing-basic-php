@@ -1,0 +1,41 @@
+[
+    {
+        "data": {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth"
+        },
+        "support": {
+            "url": "https://reqres.in/#support-heading",
+            "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+        }
+    },
+
+    {
+        "data": {
+            "id": 2,
+            "email": "defresos@inagum.co",
+            "first_name": "Latviar",
+            "last_name": "Alibaba"
+        },
+        "support": {
+            "url": "https://reqres.in/#support-heading",
+            "text": "As it so contrasted oh estimating instrument. Size like body some one had."
+        }
+    },
+
+    {
+        "data": {
+            "id": 3,
+            "email": "yogavaf@defoma.co.id",
+            "first_name": "Anabum",
+            "last_name": "Onio"
+        },
+        "support": {
+            "url": "https://reqres.in/#support-heading",
+            "text": "It if sometimes furnished unwilling as additions so."
+        }
+    }
+
+]
